@@ -1,0 +1,2 @@
+Please add an agency workspace image here named "agency-workspace.jpg".
+This will be used in the AgencyIntro component. 

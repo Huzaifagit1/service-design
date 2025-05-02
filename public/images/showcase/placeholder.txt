@@ -1,0 +1,2 @@
+Please add your showcase images here named as 1.jpg, 2.jpg, 3.jpg, 4.jpg, and 5.jpg
+These will be used in the HeroSection component. 

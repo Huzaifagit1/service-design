@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- You can @ files here
+Rule 1 - Follow these guides, this is the phases We are building our website, we need to follow these phases in this order, tick the task when complete.
+[phase1-homepage-completion.md](mdc:phase1-homepage-completion.md)
+[phase2-templates-addons-review.md](mdc:phase2-templates-addons-review.md)
+[phase3-implementation-and-testing.md](mdc:phase3-implementation-and-testing.md)

@@ -1,0 +1,6 @@
+Please add your case study images here named as:
+1. electrical.jpg
+2. plumbing.jpg
+3. cleaning.jpg
+
+These will be used in the CaseStudies component. 

@@ -1,0 +1,42 @@
+/**
+ * ⚠️ MAIN WEBSITE STYLES - DO NOT MODIFY WITHOUT APPROVAL ⚠️
+ * 
+ * This CSS file controls the styling for:
+ * - Homepage (/)
+ * - Main navigation and footer
+ * - Add-ons page (/add-ons)
+ * - Contact page (/contact)
+ * - About page (/about)
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-color: #0f172a;
+  color: #ffff
+}
+
+.back{
+  background: linear-gradient(to right,
+  #0388FE 0%,
+  #6E49EE 28%,
+  #AA25E5 44%,
+  #D60FCC 100%);
+
+}
+
+.brdr{
+  border-bottom: 5px solid linear-gradient(to right,
+  #0388FE 0%,
+  #6E49EE 28%,
+  #AA25E5 44%,
+  #D60FCC 100%);
+}
+
+
+::placeholder {
+  color: white;
+}
